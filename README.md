@@ -41,5 +41,3 @@ npm install
 npm start
 Backend running on port 5000
 
-## 📁 Project Structure
-
