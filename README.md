@@ -37,7 +37,7 @@ The backend acts as the **single source of truth** for authentication, conversio
 ---
 
 
--npm install
--npm start
--Backend running on port 5000
+npm install
+npm start
+Backend running on port 5000
 
